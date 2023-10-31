@@ -11,7 +11,7 @@ width=100% src="cabecalho_github.png" />
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=samueldev900&theme=tokyonight&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=samueldev900&show_icons=true&theme=tokyonight&layout=compact" />
+
  </div>
 
  &nbsp;
