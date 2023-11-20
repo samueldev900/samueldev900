@@ -8,7 +8,7 @@ width=100% src="cabecalho_github.png" />
 
 <p align="center">I tackle significant challenges using front-end web technologies such as <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. From crafting captivating user interfaces with <strong>HTML</strong> and <strong>CSS</strong> to adding dynamic behavior with <strong>JavaScript</strong>, I'm fervently exploring new techniques to fashion top-notch solutions. Today, I'm a proficient mid-level front-end developer, dedicated to enhancing web experiences.
 
-<!---
+
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=samueldev900&theme=tokyonight&mode=weekly" />
@@ -16,7 +16,7 @@ width=100% src="cabecalho_github.png" />
 
  </div>
 
----->
+
 
 
  &nbsp;
