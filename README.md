@@ -1,7 +1,9 @@
 
-<img align="center" style="margin-top: 50px; margin-bottom: 100px;"
+<!--<img align="center" style="margin-top: 50px; margin-bottom: 100px;"
 width=100% src="cabecalho_github.png" />
 &nbsp;&nbsp;&nbsp;
+
+--->
 
 <p>Enfrento desafios significativos usando tecnologias front-end da web, como <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>. Desde a criação de interfaces de usuário envolventes com <strong>HTML</strong> e <strong>CSS</strong> até a adição de comportamento dinâmico com <strong>JavaScript</strong>, estou apaixonado por explorar novas técnicas para criar soluções de alta qualidade. Hoje, sou um desenvolvedor front-end de nível intermediário competente, dedicado a aprimorar as experiências na web.</p>
 
